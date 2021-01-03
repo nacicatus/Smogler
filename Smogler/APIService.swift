@@ -8,7 +8,7 @@
 
 import Foundation
 
-let token = "YOUR_TOKEN"
+let token = "5e8ecfe7127390ed91fd8c29a67a7b65cfdef875"
 let baseURLString = "https://api.waqi.info/feed"
 
 protocol AQIDelegate: class {
